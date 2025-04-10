@@ -1,0 +1,19 @@
+Word Count Frequency (sorted ascending):
+
+4 word headline: 3
+5 word headline: 32
+6 word headline: 151
+7 word headline: 685
+8 word headline: 1877
+9 word headline: 3676
+10 word headline: 4650
+11 word headline: 4328
+12 word headline: 3039
+13 word headline: 1722
+14 word headline: 787
+15 word headline: 316
+16 word headline: 101
+17 word headline: 44
+18 word headline: 3
+20 word headline: 2
+21 word headline: 1
